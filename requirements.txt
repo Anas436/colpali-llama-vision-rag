@@ -1,0 +1,9 @@
+# requirements.txt
+git+https://github.com/illuin-tech/colpali
+streamlit
+torch
+Pillow
+numpy
+pdf2image
+setuptools
+sqlite3
