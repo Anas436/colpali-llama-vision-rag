@@ -46,7 +46,7 @@ A powerful Retrieval-Augmented Generation (RAG) system combining Colpali's ColQw
 
 2. Clone and setup environment:
    ```bash
-   git clone https://github.com/kturung/colpali-llama-vision-rag.git
+   git clone https://github.com/Anas436/colpali-llama-vision-rag.git
    python -m venv venv
    source venv/bin/activate  # For Mac/Linux
    # or
