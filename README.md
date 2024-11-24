@@ -2,6 +2,8 @@
 
 A powerful Retrieval-Augmented Generation (RAG) system combining Colpali's ColQwen image embeddings with LLaMA Vision via Ollama.
 
+![]([./copali.mp4](https://github.com/Anas436/colpali-llama-vision-rag/blob/main/copali.mp4))
+
 ## 🌟 Key Features
 
 - 🧬 ColQwen model for generating powerful image embeddings via Colpali
