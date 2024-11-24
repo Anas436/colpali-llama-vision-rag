@@ -93,3 +93,6 @@ CREATE TABLE embeddings (
     embedding BLOB
 )
 ```
+
+### Reference
+-   Github Link [here](https://github.com/kturung/colpali-llama-vision-rag)
